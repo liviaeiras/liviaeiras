@@ -14,7 +14,6 @@
 
  Interested in **Web Development, Databases and Software Engineering**
 
- Currently learning **SQL, NoSQL, Python and JavaScript**
 
 ---
 
