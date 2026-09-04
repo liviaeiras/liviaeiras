@@ -1,4 +1,4 @@
-# Hi there, I'm Livia 👋
+# Hi there, I'm Livia!
 
 ![](https://komarev.com/ghpvc/?username=liviaeiras\&color=blue)
 
@@ -10,23 +10,23 @@
 <img src="https://media.giphy.com/media/W04QVzelTHsNW/giphy.gif" width="150"/>
 </p>
 
-🎓 Software Engineering student
+ Software Engineering student
 
-💻 Interested in **Web Development, Databases and Software Engineering**
+ Interested in **Web Development, Databases and Software Engineering**
 
-📚 Currently learning **SQL, NoSQL, Python and JavaScript**
+ Currently learning **SQL, NoSQL, Python and JavaScript**
 
 ---
 
-## 🚀 Technologies
+## Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,mongodb,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,c#,github" />
 </p>
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
 <p align="center">
 
@@ -50,10 +50,10 @@
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
-• SQL
-• NoSQL (MongoDB)
+• SQL 
+• C#
 • Python
 • Database Design
 • Software Engineering
@@ -62,5 +62,5 @@
 • JS
 ---
 
-✨ *Always learning, building and exploring technology.*
+ *Always learning, building and exploring technology.*
 
