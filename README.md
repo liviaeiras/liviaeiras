@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/Pokemon%20Game-JavaScript-yellow?style=for-the-badge&logo=javascript"/>
 </a>
 
-<a href="https://github.com/liviaeiras/Cardapio-doceria">
+<a href="https://liviaeiras.github.io/Cardapio-doceria/">
 <img src="https://img.shields.io/badge/Doceria%20Menu-HTML%20CSS-pink?style=for-the-badge&logo=html5"/>
 </a>
 
