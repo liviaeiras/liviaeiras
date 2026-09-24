@@ -20,7 +20,7 @@
 ## Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,c#,github" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,react,c#,github" />
 </p>
 
 ---
