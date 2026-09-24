@@ -29,7 +29,7 @@
 
 <p align="center">
 
-<a href="https://github.com/liviaeiras/Pokemon-Game">
+<a href="https://liviaeiras.github.io/Pok3mon/">
 <img src="https://img.shields.io/badge/Pokemon%20Game-JavaScript-yellow?style=for-the-badge&logo=javascript"/>
 </a>
 
