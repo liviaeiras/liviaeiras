@@ -37,8 +37,8 @@
 <img src="https://img.shields.io/badge/Doceria%20Menu-HTML%20CSS-pink?style=for-the-badge&logo=html5"/>
 </a>
 
-<a href="https://https://liviaeiras.github.io/skin-match1/">
-<img src="https://img.shields.io/badge/Page%20Festival-Web%20Project-purple?style=for-the-badge&logo=google-chrome"/>
+<a href="https://liviaeiras.github.io/skin-match1/">
+<img src="https://img.shields.io/badge/Skin%20Match-Web%20Project-purple?style=for-the-badge&logo=google-chrome"/>
 </a>
 
 <a href="https://github.com/liviaeiras">
